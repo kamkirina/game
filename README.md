@@ -1,3 +1,3 @@
 # AIM game
 
-[Начать игру](/game/index.html)
+[Начать игру](/index.html)
