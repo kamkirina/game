@@ -1,3 +1,3 @@
 # AIM game
 
-[Начать игру](/)
+[Начать игру](/https://kamkirina.github.io/game/)
